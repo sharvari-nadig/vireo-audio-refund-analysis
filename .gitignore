@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Assignment input data
+data/
+
+# Generated analysis outputs
+out/
+
+# Evaluation data
+eval/*.csv
+
+# Local/generated files
+*.xlsx
+*.xls
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
